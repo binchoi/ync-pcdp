@@ -19,7 +19,6 @@
 * Using and Implementing Data-Parallel Collections
 * Actor-Based Concurrency and Actor Supervision
 * Distributed Consensus; Paxos
-* Byzantine Fault-Tolerance and Blockchain Consensus
 
 ## Sections
 * Theory Assignment 1 (Intro)
