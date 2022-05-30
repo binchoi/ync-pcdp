@@ -1,3 +1,6 @@
+_In English_: [README_EN.md](README_EN.md)
+
+---
 # 💡 Topic
 
 - 평행, 동시, 분산 프로그래밍의 기초를 다룬 심화 수업에서 작성한 코드 모음집
