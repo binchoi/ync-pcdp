@@ -1,6 +1,6 @@
 # 💡 Topic
 
-- A collection of code written while taking a course about Parallel, Concurrent, and Distributed Programming
+- A collection of code written throughout the course Parallel, Concurrent, and Distributed Programming
 
 # 📝 Summary
 
@@ -42,7 +42,7 @@ occur in sequential programs)
 
 # 📖 Open-Source Analysis: Apache Tomcat
 
-I have written a [report](YSC4231-data-race-report.pdf) that reviews the source code of [Apache Tomcat](https://github.com/apache/tomcat), a project that utilizes concurrent/parallel programming. 
+I wrote a [report](YSC4231-data-race-report.pdf) that reviews the source code of [Apache Tomcat](https://github.com/apache/tomcat), a project that utilizes concurrent/parallel programming. 
 In the report, I search for potential data races in their code and suggest solutions to resolve them.
 
 # 📚 Distributed, Fault-Tolerant Replicated Key-Value Store
